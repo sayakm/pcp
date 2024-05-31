@@ -3,12 +3,12 @@ A prototype collaborative editor for Processing meant to server as a base for te
 
 ## Stack
 
-> Tauri
-> Yjs
-> Liveblocks (for now)
-> Codemirror
-> antlr-ts (for generating typescript parsers for Processing)
-> shadcn/ui
+* Tauri
+* Yjs
+* Liveblocks (for now)
+* Codemirror
+* antlr-ts (for generating typescript parsers for Processing)
+* shadcn/ui
 
 ### Status
 
